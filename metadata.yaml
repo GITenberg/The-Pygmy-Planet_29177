@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31775
     wikipedia: http://en.wikipedia.org/wiki/Jack_Williamson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29177#The-Pygmy-Planet
 gutenberg_bookshelf:
 - Astounding Stories
 - Science Fiction
